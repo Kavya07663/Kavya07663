@@ -1,3 +1,13 @@
+## Hi there, I'm Kavya! 👋
+
+I am a Computer Science & Engineering (Data Science) student passionate about building impactful technical solutions. 
+
+* 🔭 I’m currently working on projects involving **Data Analytics** and **Machine Learning**.
+* 👯 I’m actively involved in the **Google Developers Group** and **App Development Club** on campus.
+* 💡 I enjoy participating in hackathons like the **Smart India Hackathon (SIH)** and organizing technical events.
+* 📫 How to reach me: **[Link your LinkedIn here]**
+
+
 ### 🛠️ My Skills
 
 **Programming Languages**  
