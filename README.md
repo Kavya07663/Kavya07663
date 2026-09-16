@@ -26,3 +26,7 @@ I am a Computer Science & Engineering (Data Science) student passionate about bu
 **Frameworks & Analytics**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge)
+
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radium)
