@@ -31,4 +31,4 @@ I am a Computer Science & Engineering (Data Science) student passionate about bu
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya07663&show_icons=true&theme=radium)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kavya07663&theme=radium)
