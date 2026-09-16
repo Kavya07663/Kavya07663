@@ -28,5 +28,7 @@ I am a Computer Science & Engineering (Data Science) student passionate about bu
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge)
 
 
+---
+
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya07663&show_icons=true&theme=radium)
